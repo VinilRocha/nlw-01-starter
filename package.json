@@ -1,0 +1,18 @@
+{
+  "name": "ecoleta",
+  "version": "1.0.0",
+  "description": "NLW Starter da Rocketseat",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "author": "Vinicius Ferreira",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
